@@ -55,7 +55,7 @@ I'm a results-driven **AI-native developer** with a strong foundation in **Machi
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <br/>
   <a href="https://github.com/Kiruno-lz">
     <img src="https://readme-stats-312tech.vercel.app/api?username=Kiruno-lz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kiruno's Stats" />
@@ -63,7 +63,7 @@ I'm a results-driven **AI-native developer** with a strong foundation in **Machi
   <a href="https://github.com/Kiruno-lz">
     <img src="https://readme-stats-312tech.vercel.app/api/top-langs/?username=Kiruno-lz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <br/>
