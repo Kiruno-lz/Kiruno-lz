@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/76504704?v=4" />
+    <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/76504704&mask=circle" width="300" />
 </div>
 
 <div align="center">
